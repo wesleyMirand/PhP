@@ -1,0 +1,18 @@
+O Php é diferente de "Html" mais nao vive sem. Eles se completam.
+
+O cliente pede ao "Servidor que tem o arquivo" me da o arquivo? até ele receber uma cópia do arquivo. O cliente tem funcao de solicitar ao servidor, receber
+arquivo e interpretalo atraves do navegador. A unica função do "Servi" é fornecer esses arquivos, então quem trabalha mais é o cliente. Por isso o "HTML"
+é um Client-Side(do lado do cliente). Além do "html" o "Js, Css, Flash", também são Client-side.
+
+Agora no exemplo PHP
+
+Eu tenho arquivos PHP e pra fornecer, o servidor não pode pegar e enviar uma copia. O servidor tenque está preparado para usar a ferramenta tradicional,
+(apache)para transformar o computador em um servidor, que leia documento em html, com funcao Adicional de interpretador PHP.
+
+Php são programas em html, que tem acesso a Banco de Dados. Aparti do momento que o documento php, comeca a agir ele gera um arquivo html,
+nesse arquivo so vai ter tags html ou outra tecnologia de client-side. Não vai pro servidor o arquivo, ele vai direto pro cliente que solicitou.
+
+PHP _> HTML _> MAQUINA _> Navegador interpreta o html no servidor
+
+O servidor tem acesso a banco de dados, muito melhor sem limitação. Quem tem mais trabalho ao contrario do HTML(cliente), no PHP é o "SERVIDOR".
+SERVE-SIDE . 
