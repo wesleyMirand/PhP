@@ -1,0 +1,16 @@
+Como surgiu: Começou em 1970 com surgimento da internet.
+Começou em 1990 com surgimento da "World Wide Web:WWW,<Html>,protocolo:HTTP(transferencia de HiperTexto que permite visualizar SITES).
+O HTTP e o HTML funcionam em conjuntos entre "Servidores & Clientes", todo html que voce cria que disponibiliza maior nivel de cliente, tenque estar no
+servidor. A funcao do HTTP é pegar a copia do html e enviar pro cliente, ai sim o cliente vai poder, atraves do navegador, exibir o conteudo na tela. 
+Tudo isso foi criado em 1990 !
+
+Até que 1994 um user, se questionou quantas pessoas estao visualizando meu site? E em 1995 esse mesmo user criou o "PHPT : PERSONAL HOME PAGE TOOLS" que deu
+origem ao nome php. Utilizava antes liguagens muito simples o "PERL" e até hoje o php usa seus comando. Até que depois ele criou o comentarios no site,
+fazendo que os usúarios podessem dar feedbacks aos dono, com formularios personalizados. Sendo assim na segunda versão foi permitidad a "Interpretação de
+Formulário". E assim ficou "PHPFI:incluindo o Interpreter"2.0. Assim em 1996, o desejo da ferramenta crescer foi longe que foi o "Rasmus" inventor do php,
+liberou acesso a todos programadores o código fonte do php, virando a segunda versao do php ganhando acesso ao banco de dados. Em 1997 sua função cresceram,
+mais foi em "1998" que dois israelista reiscreveram o codigo da linguagem todo. Até que foi alem de paginas pessoais e se expandiu pela comunidade. E pra 
+nao mudar o nome eles mudaram o nome de "PHP: Php, Hypertext, Process". E 1999 com a versão 3, 10% dos servidores do mundo ja usavam php. Em 2000 surgiu a 
+versão 4, com atualização de seguranças, erros. E foi em 2004 que surgiu e expandiu o php que está até hoje no mercado com a versao 5, que levou o php
+longe. Em 2006 levando requisitos de idioma, Unicode, utf-8(sigla de formatacao de codigo), foi levado a serio o esforço pra resolver os problemas, que só
+foi se cumprir o básico em 2013, sem ter totalmente resolvido os problemas.
